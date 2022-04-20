@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+.title {
+    width: 15rem;
+    font-family: ui-sans-serif;
+    color: rebeccapurple;
+}
+.product {
+    font-size: 36px !important;
+    color: rebeccapurple !important;
+}
+.p-t-0 {
+    padding-top: 0px!important;
+}
